@@ -66,6 +66,6 @@ jobs:
       - name: Update to step 4
         uses: skills/action-update-step@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GLOBAL_CLASSROOM_ORG_TOKEN }}
           from_step: 3
           to_step: 4
