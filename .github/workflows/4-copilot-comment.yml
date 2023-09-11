@@ -66,6 +66,6 @@ jobs:
       - name: Update to step X
         uses: skills/action-update-step@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GLOBAL_CLASSROOM_ORG_TOKEN }}
           from_step: 4
           to_step: X
