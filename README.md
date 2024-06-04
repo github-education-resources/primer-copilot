@@ -31,7 +31,7 @@ GitHub Copilot can help you code by offering autocomplete-style suggestions. You
 - **Prerequisites**: To use GitHub Copilot you must have an active GitHub Copilot subscription. Sign up for 30 days free [Copilot](https://github.com/settings/copilot).
 - **Timing**: This course can be completed in under an hour.
 
-Wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in this assignment repository's README.
+**Wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in this assignment repository's README.**
 
 <footer>
 
